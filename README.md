@@ -1,7 +1,7 @@
 ## Learn_ML
 
-This repo consist for folders and documentation, that were mede while my Machine learning Journey.
+This repo consist of folders and documentation, that were created while my Machine learning Journey.
 
 **index for the Documentaion**
-1. Preprocessing
+1. <a href="./data_preprocessing/import_dataset.ipynb">Preprocessing</a>
 2. Regression
