@@ -31,9 +31,9 @@ Now, the company wants to do the advertisement of $200 in the year 2019 and want
 - **Underfitting:** if our algorithm does not perform well even with training dataset
 
 
-**Types of Regression**
+## Types of Regression
 
-- Linear Regression
+- <a href="./simple_linear_reg.ipynb">Linear Regression </a>
 - Logistic Regression
 - Polynomial Regression
 - Support Vector Regression
