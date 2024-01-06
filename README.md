@@ -10,3 +10,4 @@ This repo consist of folders and documentation, that were created while my Machi
     2. <a href='./Regression/multiple_linear_reg.ipynb'> Multiple linear regression</a>
     3. <a href='./Regression/polynomial_linear_reg.ipynb'> Polynomial linear regression</a>
     4. <a href='./Regression/support_vector_reg.ipynb'>Support vector regression</a>
+    5. <a href='./Regression/decision_tree_reg.ipynb'>Decision tree Regression</a>
