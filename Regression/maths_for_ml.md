@@ -64,3 +64,34 @@ This is how it's supposed to be so "you don't reject the hypotisis" (NO relation
     2. Construct All possible regression Models **2<sup>n</sup> - 1** total combinations.<br> where **n** is number of Predictors.
     3. Select the one with best criterion.
     4. fit the model.
+
+<hr>
+
+# R squared
+$$ R^2 = 1 - \frac {SS_r} {SS_t} $$
+**where,**
+$$ SS_r = SUM(y_i - y_r)^2 $$
+$$ SS_t = SUM(y_i - y_a)^2 $$
+y<sub>r</sub> : coressponding regression value through OLS. <br>
+
+y<sub>a</sub> : Average value.
+**Note: R<sup>2</sup>** can be negative. & 'p' represents The number of regressor.
+ 
+![R squared image](https://cdn-images-1.medium.com/max/1032/1*MWFSc6eKpkpdKnXgy-vYVg.png)
+
+### Note: (R squared is Goodness of fit) if R<sup>2</sup> is
+1. 1.0 --> Perfect fit (suspious)
+2. 0.9 --> very good
+3. < 0.9 --> Not great
+4. < 0.4 --> Terrible
+5. < 0 --> Model makes no sense for the data.
+
+## Adjusted R squared.
+If we add more Predictors to our model, the **R<sup>2</sup>** might improve by a lot or a littel bit, but It won't get worse.<br> This is because the regression model will make the coefficent of newly added variable 0, which in turn will have no effect on  **R<sup>2</sup>**, it will remain same.
+<br><br>
+Populating the model with too many Useless variables is not ideal, Therefor formula below only considers the variables that have a significant inpact on **R<sup>2</sup>** .
+
+$$ \textrm{Adj }R^2 = 1 - (1 - R^2) *  \frac {n-1}{n-k-1} $$
+where,
+- k - number of predictors.
+- n - Sample size
