@@ -13,3 +13,4 @@ This repo consist of folders and documentation, that were created while my Machi
     5. <a href='./Regression/decision_tree_reg.ipynb'>Decision tree Regression</a>
     6. <a href='./Regression/random_forest_reg.ipynb'>Random forest Regression</a>
 3. <a href ='./Classification.ipynb'>Classification</a>
+4. <a href = ''>Logistic regression</a>
