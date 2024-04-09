@@ -1,7 +1,9 @@
 ## Learn_ML
 
-This repo consist of folders and documentation, that were created while my Machine learning Journey.
-- <a href="https://www.udemy.com/course/machinelearning/">References </a>
+This repo consist of folders and documentation, that were created while my Machine learning Journey.<br>
+**Credit & References**
+- 
+- <a href="https://www.udemy.com/course/machinelearning/">Machine learning A-Z Course</a>
 
 **index for the Documentaion**
 1. <a href="./data_preprocessing/import_dataset.ipynb">Preprocessing</a>
@@ -12,5 +14,11 @@ This repo consist of folders and documentation, that were created while my Machi
     4. <a href='./Regression/support_vector_reg.ipynb'>Support vector regression</a>
     5. <a href='./Regression/decision_tree_reg.ipynb'>Decision tree Regression</a>
     6. <a href='./Regression/random_forest_reg.ipynb'>Random forest Regression</a>
-3. <a href ='./Classification.ipynb'>Classification</a>
-4. <a href = ''>Logistic regression</a>
+3. <a href =''>Classification</a>
+    1. <a href = './Classification/Logistic_reg.ipynb'>Logistic regression</a>
+    1. <a href = ''>K-Nearest Neighbour (K_NN)</a>
+    1. <a href = ''>Support Vector Machine (SMV)</a>
+    1. <a href = ''>Kernel SMV</a>
+    1. <a href = ''>Decision Tree Classification</a>
+    1. <a href = ''>Random Forest Classification</a>
+    
