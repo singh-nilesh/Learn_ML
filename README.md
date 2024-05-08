@@ -16,7 +16,7 @@ This repo consist of folders and documentation, that were created while my Machi
     6. <a href='./Regression/random_forest_reg.ipynb'>Random forest Regression</a>
 3. <a href =''>Classification</a>
     1. <a href = './Classification/Logistic_reg.ipynb'>Logistic regression</a>
-    1. <a href = ''>K-Nearest Neighbour (K_NN)</a>
+    1. <a href = './Classification/KNN.ipynb'>K-Nearest Neighbour (K_NN)</a>
     1. <a href = ''>Support Vector Machine (SMV)</a>
     1. <a href = ''>Kernel SMV</a>
     1. <a href = ''>Decision Tree Classification</a>
