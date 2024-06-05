@@ -22,8 +22,8 @@ This repo consist of folders and documentation, that were created while my Machi
     1. <a href = './Classification/KNNclear.ipynb'>K-Nearest Neighbour (K_NN)</a>
     1. <a href='./Classification/SVM.ipynb'>Support Vector Machine (SMV)</a>
     1. <a href='./Classification/Naive_Bayes_Class.ipynb'>Naive Bayes</a>
-    1. <a href = ''>Decision Tree Classification</a>
-    1. <a href = ''>Random Forest Classification</a>
+    1. <a href='./Classification/Decision_tree_class.ipynb'>Decision Tree Classification</a>
+    1. <a href='./Classification/Random_forest_class.ipynb'>Random Forest Classification</a>
 
 4. <a href=''>Clustering</a>
     1. <a href='./Clustering/K-Means.ipynb'>K-Means Clustering</a>
@@ -33,5 +33,8 @@ This repo consist of folders and documentation, that were created while my Machi
     1. <a href='./Association_rule_learning/Apriori.ipynb'>Apriori</a>
     1. <a href='./Association_rule_learning/Eclat.ipynb'>Eclat</a>
 
+6. <a href=''> Reinforcement Learning </a>
+    1. <a href='./Reinforcement_learning/UCB.ipynb'> Upper Confidence Bound</a>
+    1. <a href='./Reinforcement_learning/Thompson_Sampling.ipynb'> Thompson Samling</a>
 
 <hr>
