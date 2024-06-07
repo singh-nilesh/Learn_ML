@@ -37,4 +37,7 @@ This repo consist of folders and documentation, that were created while my Machi
     1. <a href='./Reinforcement_learning/UCB.ipynb'> Upper Confidence Bound</a>
     1. <a href='./Reinforcement_learning/Thompson_Sampling.ipynb'> Thompson Samling</a>
 
+7. <a href=''> Natural Language Processing </a>
+
+
 <hr>
